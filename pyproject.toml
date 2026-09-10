@@ -1,0 +1,15 @@
+[project]
+name = "monte-carlo-sim"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "argparse>=1.4.0",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "scipy>=1.18.1",
+    "tldr>=3.4.4",
+    "tqdm>=4.70.0",
+]
